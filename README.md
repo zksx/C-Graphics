@@ -37,4 +37,3 @@ Asa Henry (ajh728@nau.edu), Zachary Bryant (zkb6@nau.edu), Isaiah Raspet (ijr44@
 
 # Known Issues
 - reflected and refracted color are not calculated completely correct
-# cs430_7_ajh728_zkb6_ijr44
