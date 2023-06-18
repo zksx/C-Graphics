@@ -1,4 +1,4 @@
-# cs430_5_ajh728_zkb6
+C Graphics
 Raycaster Project - this includes a program which reads a formatted ASCII file that describes a scene of objects, and prints the result out to a PPM file for viewing.
 
 # Author(s)
@@ -21,11 +21,12 @@ Zachary Bryant (zkb6@nau.edu), Asa Henry (ajh728@nau.edu), Isaiah Raspet (ijr44@
      
      Here is an example of a proper input scene with all member values set to zero:
 
+```zsh
         camera, width: 0.0, height: 0.0\
         sphere, color: [0, 0, 0], position: [0, 0, 0], radius: 0, final_position: [0, 0, 0]\
         plane, color: [0, 0, 0], position: [0, 0, 0], normal: [0, 0, 0]\
         light, color: [0, 0, 0], theta: 0, radial-a2: 0, radial-a1: 0, angular-a0: 0, radial-a0: 0, position: [0, 0, 0], direction: [0, 0, 0]
-   
+```
         - Note: if theta is equal to 0 or the length of the light's direction is 0, then the light is assumed to be a point light
 
    - output: should have a ppm extension such as output.ppm
