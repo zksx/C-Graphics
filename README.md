@@ -2,7 +2,7 @@
 Raycaster Project - this includes a program which reads a formatted ASCII file that describes a scene of objects, and prints the result out to a PPM file for viewing.
 
 # Author(s)
-Asa Henry (ajh728@nau.edu), Zachary Bryant (zkb6@nau.edu), Isaiah Raspet (ijr44@nau.edu)
+Zachary Bryant (zkb6@nau.edu), Asa Henry (ajh728@nau.edu), Isaiah Raspet (ijr44@nau.edu)
 
 # Usage
 1. Use command "make" to compile the code into an executable
