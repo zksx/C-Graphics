@@ -1,6 +1,9 @@
 C Graphics
 Raycaster Project - this includes a program which reads a formatted ASCII file that describes a scene of objects, and prints the result out to a PPM file for viewing.
 
+Example of output: <img src="https://github.com/zksx/C-graphics/blob/main/gifs/out.gif" width="300"/> 
+
+
 # Author(s)
 Zachary Bryant (zkb6@nau.edu), Asa Henry (ajh728@nau.edu), Isaiah Raspet (ijr44@nau.edu)
 
